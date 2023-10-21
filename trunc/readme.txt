@@ -32,7 +32,7 @@ PAYMENT TYPE select as 'doublestaged'
 
 == Changelog ==
 
-= 1.3 = Add support for few currencies (EUR, USD, INR). Before that it was RUB only.
+= 1.3 = Added support for few currencies (EUR, USD, INR). Before that it was RUB only.
 = 1.2 = NDS cals fixes. Check for API updates.
 = 1.1 = Shipping is separate line in fiscal checks.
 = 1.0 = Added support of fiscal checks via payler API. Some small changes and fixes.
